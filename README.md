@@ -1,16 +1,16 @@
-### Hi there 👋
+# Bruno Dias 👋
+[![Linkedin Badge](https://img.shields.io/badge/-brunodias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-goncalves-dias/)](https://www.linkedin.com/in/bruno-goncalves-dias/) [![Gmail Badge](https://img.shields.io/badge/-gdias.bruno@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gdias.bruno@gmail.com)](mailto:gdias.bruno@gmail.com)
 
-<!--
-**gdiasbruno/gdiasbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bruno Dias🐳, I'm a software engineer who is passionate about web development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on G&D
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about politics
+- 📫 How to reach me: gdias.bruno@gmail.com
+- ⚡ Languages: JavaScript, Python, PHP
+
+
+
