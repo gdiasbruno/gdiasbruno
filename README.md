@@ -8,7 +8,7 @@ I'm Bruno Dias🐳, I'm a software engineer who is passionate about web developm
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Java
-- 💬 Ask me about politics
+- 💬 Ask me about Data Science
 - 📫 How to reach me: gdias.bruno@gmail.com
 - ⚡ Languages: JavaScript, Python, PHP
 
