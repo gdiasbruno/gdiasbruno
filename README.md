@@ -4,7 +4,7 @@
 I'm Bruno Dias🐳, I'm a software engineer who is passionate about web development.
 
 
-- 🔭 I’m currently working at São Paulo Cityhall
+- 🔭 I’m currently working at São Paulo City Hall
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Java
