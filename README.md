@@ -7,7 +7,7 @@ I'm Bruno Dias🐳, I'm a software engineer who is passionate about web developm
 - 🔭 I’m currently working at RoutEasy
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with Serverless
 - 💬 Ask me about Node.js
 - 📫 How to reach me: gdias.bruno@gmail.com
 - ⚡ Languages: JavaScript, Python, Java
